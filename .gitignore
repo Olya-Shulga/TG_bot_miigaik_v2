@@ -1,0 +1,14 @@
+venv/
+
+*.log
+
+.env
+
+__pycache__/
+*.pyc
+*.pyo
+
+.vscode/
+.idea/
+
+*.tar
