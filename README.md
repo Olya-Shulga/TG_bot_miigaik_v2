@@ -65,6 +65,7 @@ python tg_bot.py
 ```
 
 ## Структура проекта
+```text
 TG_bot_miigaik_v2/
 ├── tg_bot.py             # Основной файл бота
 ├── content.py            # Данные: разделы, подразделы, текст сообщений
@@ -72,7 +73,7 @@ TG_bot_miigaik_v2/
 ├── requirements.txt      # Зависимости
 ├── LICENSE
 └── README.md
-
+```
 ### Автор
 
 Ольга Шульга 
